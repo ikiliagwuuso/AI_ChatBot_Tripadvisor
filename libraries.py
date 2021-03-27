@@ -1,12 +1,12 @@
 import nltk
-import numpy as numpy
-from keras import Tensorflow
+import numpy as np
+from tensorflow import keras
 
 nltk.download("punkt")
 nltk.download("wordnet")
 from nltk.stem import WordNetLemmatizer
+Lemmatizer = WordNetLemmatizer()
 
-lemmatizer = WordNetLemmatizer()
 import json
 import pickle
 
