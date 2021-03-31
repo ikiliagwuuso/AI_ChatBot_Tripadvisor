@@ -12,8 +12,16 @@ Downloading and installing modules
 Python, Keras, and Natural language processing (NLTK). 
 downloading modules with the python-pip command.
 
+```
 pip install tensorflow, keras, pickle, nltk
+```
 
+## Running the ChatBot GUI
+###### implementing the chatbot after training model with 3 layers
+
+```
+python AI_Chatbot_Debugged,py
+```
 
 ## Procedure to train model and files
 
